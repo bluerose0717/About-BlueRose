@@ -1,2 +1,8 @@
-# About-BlueRose
-This is introduction about senior programmer Blue Rose.
+# About-BlueRose 
+This is an introduction about senior programmer Blue Rose.
+=======================================================
+=====================================================================
+=================================================================================================================================
+ ===== --- Here, I post some code source for web and mobile developer. I hope developers find the solution from my codes --- ====
+ ________________________________________________________________________________________________________________________________
+ 
